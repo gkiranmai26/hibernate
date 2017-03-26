@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/asm.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Hibernet jars/jta.jar"/>
+	<classpathentry kind="lib" path="E:/Java/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
